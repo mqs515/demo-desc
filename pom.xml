@@ -44,7 +44,7 @@
             <version>2.6</version>
         </dependency>
 
-        <!-- slf4j -->
+        <!-- slf4j这个注释就是我修改的 -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
